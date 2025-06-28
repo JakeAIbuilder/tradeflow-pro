@@ -1,6 +1,6 @@
 # TradeFlow Pro 🔧
 
-**AI-Powered Business Management Platform for Tradesmen**
+**AI-Powered Business Management Platform for Trades**
 
 A comprehensive business management platform designed specifically for tradesmen and service businesses. TradeFlow Pro helps you manage jobs, track leads, automate customer communications using AI, and optimize routes for maximum efficiency.
 
